@@ -19,6 +19,8 @@ pretium maximus lorem. Etiam posuere bibendum purus ac molestie. Etiam
 venenatis nulla quam, et volutpat orci venenatis eget. Duis et dictum
 nisl.
 
+# Header 1
+
 Quisque vulputate sem auctor urna porttitor, quis ultricies nisi
 accumsan. Nunc aliquet ipsum id pharetra luctus. Nulla efficitur aliquet
 suscipit. Nam magna erat, fringilla ac eleifend ac, maximus sed est.
@@ -28,6 +30,8 @@ felis posuere eu. Donec id aliquet ipsum. Ut tristique ultricies auctor.
 Phasellus nec consequat mi. Pellentesque mollis rhoncus sapien non
 tincidunt. Nam venenatis ante nisi, hendrerit luctus nunc porttitor
 quis. Proin eu bibendum odio, sed condimentum velit.
+
+## header 2
 
 Nulla malesuada luctus ante, non posuere dolor eleifend eu. Maecenas
 dictum, urna sit amet semper porttitor, dolor metus laoreet metus, nec
