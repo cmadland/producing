@@ -1,8 +1,10 @@
 {
   "index.qmd": {
-    "index.html": "afcc706e"
+    "index.html": "afcc706e",
+    "index.md": "15c6f054"
   },
   "about.qmd": {
-    "about.html": "ed14b5fd"
+    "about.html": "ed14b5fd",
+    "about.md": "01761276"
   }
 }
