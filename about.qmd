@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+[Back to Moodle](https:/learn.twu.ca){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Head back to Moodle"}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis lacus a pulvinar suscipit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc non elementum urna. Aliquam ac purus dapibus, iaculis nulla venenatis, porta mauris. Etiam neque enim, porta non arcu eget, dictum auctor ante. Sed aliquet lacinia velit et imperdiet. Vivamus sit amet facilisis odio, ut lacinia neque. Aenean eu fermentum dui. Duis bibendum ante diam, non convallis libero ultricies euismod. Mauris turpis odio, fermentum ac efficitur ut, scelerisque vitae quam. Donec euismod ornare tortor sollicitudin consequat. Morbi ullamcorper efficitur purus sed feugiat. Vestibulum pretium maximus lorem. Etiam posuere bibendum purus ac molestie. Etiam venenatis nulla quam, et volutpat orci venenatis eget. Duis et dictum nisl.
 
 Quisque vulputate sem auctor urna porttitor, quis ultricies nisi accumsan. Nunc aliquet ipsum id pharetra luctus. Nulla efficitur aliquet suscipit. Nam magna erat, fringilla ac eleifend ac, maximus sed est. Curabitur nec sem non erat tempor posuere in eu ex. Curabitur pretium neque quis felis dapibus luctus. Sed tristique nisl magna, sed interdum felis posuere eu. Donec id aliquet ipsum. Ut tristique ultricies auctor. Phasellus nec consequat mi. Pellentesque mollis rhoncus sapien non tincidunt. Nam venenatis ante nisi, hendrerit luctus nunc porttitor quis. Proin eu bibendum odio, sed condimentum velit.

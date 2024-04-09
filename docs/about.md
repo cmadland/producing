@@ -1,6 +1,10 @@
 # About
 
 
+<a href="https:/learn.twu.ca" class="btn btn-outline-primary"
+role="button" data-toggle="tooltip" title="Head back to Moodle">Back to
+Moodle</a>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis
 lacus a pulvinar suscipit. Vestibulum ante ipsum primis in faucibus orci
 luctus et ultrices posuere cubilia curae; Nunc non elementum urna.
